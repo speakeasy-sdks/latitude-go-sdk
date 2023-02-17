@@ -14,7 +14,7 @@ The Latitude.sh API gives you programmatic access to all resources available on 
 go get github.com/speakeasy-sdks/latitude-go-sdk
 ```
 <!-- End SDK Installation -->
-##Authentication
+## Authentication
 
 To create an API token, go to the Settings & Billing → API Keys page on the dashboard.
 
