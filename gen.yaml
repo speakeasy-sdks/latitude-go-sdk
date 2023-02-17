@@ -1,0 +1,4 @@
+go:
+    version: 2.0.0
+    packagename: github.com/speakeasy-sdks/latitude-go-sdk
+sdkclassname: latitude
