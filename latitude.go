@@ -71,8 +71,8 @@ func WithClient(client HTTPClient) SDKOption {
 func New(opts ...SDKOption) *Latitude {
 	sdk := &Latitude{
 		_language:   "go",
-		_sdkVersion: "2.2.1",
-		_genVersion: "1.4.8",
+		_sdkVersion: "2.3.0",
+		_genVersion: "1.5.0",
 	}
 	for _, opt := range opts {
 		opt(sdk)

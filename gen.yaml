@@ -1,8 +1,8 @@
 management:
     openapi-checksum: fd56578f22b185ea4e06106322a66b75
     openapi-version: v2
-    speakeasy-version: 1.4.8
+    speakeasy-version: 1.5.0
 go:
-    version: 2.2.1
+    version: 2.3.0
     packagename: github.com/speakeasy-sdks/latitude-go-sdk
 sdkclassname: latitude
