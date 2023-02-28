@@ -39,3 +39,11 @@ Based on:
 - Speakeasy CLI 1.5.3 https://github.com/speakeasy-api/speakeasy
 ### Releases
 - [Go v2.3.1] https://github.com/speakeasy-sdks/latitude-go-sdk/releases/tag/v2.3.1 - ./
+
+## Version 2.3.2
+### Changes
+Based on:
+- OpenAPI Doc v2 ./openapi.json
+- Speakeasy CLI 1.5.4 https://github.com/speakeasy-api/speakeasy
+### Releases
+- [Go v2.3.2] https://github.com/speakeasy-sdks/latitude-go-sdk/releases/tag/v2.3.2 - ./
